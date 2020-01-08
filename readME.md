@@ -10,7 +10,7 @@
 
 # how-to-use :
 use data.json to add you're lessons such as followed
-
+**Key values must be Camelcase** 
 ```json
 { 
     "Monday": [
@@ -27,3 +27,7 @@ use data.json to add you're lessons such as followed
     
 }
 ```
+
+
+
+
