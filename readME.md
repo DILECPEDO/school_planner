@@ -24,6 +24,6 @@ use data.json to add you're lessons such as followed
         "hystory",
         "Sex-education"
     ]
-    ...
+    
 }
 ```
