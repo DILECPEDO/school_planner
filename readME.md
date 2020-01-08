@@ -4,15 +4,12 @@
 # Prerequisites :
 
 - Rust 
-    ``` 
+    ```zsh
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     ```
 
-
-    ```json
-    Here goes your json object definition
-    ```
-
+# how-to-use :
+use data.json to add you're lessons such as followed
 
 ```javascript
 { 
