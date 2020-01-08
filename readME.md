@@ -11,7 +11,7 @@
 # how-to-use :
 use data.json to add you're lessons such as followed
 
-```javascript
+```json
 { 
     "Monday": [
         "math",
