@@ -1,0 +1,36 @@
+{
+    "Lunedi" : [
+        "informatica",
+        "infomratica",
+        "ginnatica",
+        "ginnastica",
+        "inglese",
+        "regligione"
+    ],
+    "Martedi" : [
+        "storia",
+        "storia",
+        "matematica",
+        "fisica",
+        "filosofia",
+        "filosofia"
+    ],
+    "Mercoledi" : [
+        "italiano",
+        "italiano",
+        "scienze",
+        "scienze",
+        "matematica",
+        "matematica"
+    ],
+
+    "Venerdi" : [
+        "fisica",
+        "inglese",
+        "scienze",
+        "scienze",
+        "disegno",
+        "disegno"
+        
+    ]
+}
